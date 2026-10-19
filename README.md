@@ -1,7 +1,7 @@
 # PRIMER PARCIAL DE PROGRAMACIÓN I
 ![](src/assets/images/background_git.png)
 
-#I. FUNDAMENTACIÓN:
+# I. FUNDAMENTACIÓN:
 Este proyecto integra los contenidos vistos en las materias de Programación 1 y Laboratorio 1 de la Tecnicatura en Programación de la UTN:
 
 1. Sintaxis: Escritura y organización del código en Python.
