@@ -1,4 +1,4 @@
-# PRIMER PARCIAL DE PROGRAMACIÓN I
+# PRIMER PARCIAL DE PROGRAMACIÓN I - MAURICIO HARRIET
 ![](src/assets/images/background_git.png)
 
 # I. FUNDAMENTACIÓN:
