@@ -16,7 +16,7 @@ Este proyecto integra los contenidos vistos en las materias de Programación 1 y
 10. Elementos aleatorios: Selección al azar de vehículos y detección de choques con otros objetos.
 12. Utilización de Pygame: Creación de la interfaz gráfica, movimiento de objetos, reproducción de sonidos y control de los eventos del juego.
 
-#II. DESCRIPCIÓN GENERAL DEL PROYECTO:
+# II. DESCRIPCIÓN GENERAL DEL PROYECTO:
 El proyecto se basa en un juego de estilo arcade llamado "Taxi Driver", este esta desarrollado en Python con la biblioteca Pygame. El objetivo del juego es manejar un vehículo, esquivar piedras y otros vehículos, y moverlo hacia arriba o abajo utilizando las teclas W y S. También se puede acelerar apretando la letra D.
 
 El juego consta de las siguientes características: 
