@@ -38,5 +38,6 @@ El juego consta de las siguientes características:
 # III. CONSIDERACIONES:
 Este proyecto es de mi autoría, pero la aplicación de conceptos se da en base a los conocimientos vistos en las clases de Programación 1 y Laboratorio 1, gracias a los profesores de dichas materias. El código del juego es de mi producción, en cambio los sprites y los sonidos del juego se consiguieron de manera gratuita a través de internet. 
 
-## GAMEPLAY DEL JUEGO:
+Se necesita la instalación de pygame 2.5.2 para hacer funcionar el proyecto.
+
 [Gameplay del juego](https://youtu.be/w7a32JV3Uhc?si=NdOOUMmHIGD38rqS)
